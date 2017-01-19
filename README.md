@@ -1,2 +1,2 @@
 # hello-world
-Hello world program
+Hello world program for COMP 312
